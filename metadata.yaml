@@ -1,0 +1,32 @@
+_repo: The-Old-House-A-Novel_66344
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Torday, Emil
+    gutenberg_agent_id: '53759'
+    url: http://www.gutenberg.org/2009/agents/53759
+creator:
+  author:
+    agent_name: Tormay, Cécile
+    gutenberg_agent_id: '53758'
+    url: http://www.gutenberg.org/2009/agents/53758
+description: ''
+gutenberg_issued: '2021-09-19'
+identifiers:
+  gutenberg: '66344'
+language: en
+pgterms:marc904: https://archive.org/details/oldhousenovel00tormiala/page/n5/mode/2up
+pgterms:marc905: 20200708134632tormay
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Paul Clark and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Robert M. McBride & Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Old House: A Novel'
+url: http://www.gutenberg.org/ebooks/66344
