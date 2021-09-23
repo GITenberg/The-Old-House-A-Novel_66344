@@ -5,12 +5,17 @@ contributor:
     agent_name: Torday, Emil
     gutenberg_agent_id: '53759'
     url: http://www.gutenberg.org/2009/agents/53759
+covers:
+- cover_type: archival
+  image_path: 66344-h/images/cover.jpg
 creator:
   author:
     agent_name: Tormay, Cécile
     gutenberg_agent_id: '53758'
     url: http://www.gutenberg.org/2009/agents/53758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66344#The-Old-House-A-Novel
 gutenberg_issued: '2021-09-19'
 identifiers:
   gutenberg: '66344'
